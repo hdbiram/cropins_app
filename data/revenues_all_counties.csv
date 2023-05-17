@@ -1,0 +1,811 @@
+state,county,crop,practice,product,product_code,coverage_level,units,fsa,net_rev
+Arkansas,Lawrence,Corn,Irrigated,YP,1,No Insurance,Basic,PLC,124.6397909
+Arkansas,Lawrence,Corn,Irrigated,YP,1,50%,Basic,PLC,195.911582
+Arkansas,Lawrence,Corn,Irrigated,YP,1,55%,Basic,PLC,205.7285037
+Arkansas,Lawrence,Corn,Irrigated,YP,1,60%,Basic,PLC,219.6915934
+Arkansas,Lawrence,Corn,Irrigated,YP,1,65%,Basic,PLC,225.8648921
+Arkansas,Lawrence,Corn,Irrigated,YP,1,70%,Basic,PLC,240.0562039
+Arkansas,Lawrence,Corn,Irrigated,YP,1,75%,Basic,PLC,245.9616818
+Arkansas,Lawrence,Corn,Irrigated,YP,1,80%,Basic,PLC,242.9844729
+Arkansas,Lawrence,Corn,Irrigated,YP,1,85%,Basic,PLC,228.5535839
+Arkansas,Lawrence,Corn,Irrigated,YP,1,No Insurance,Basic,N/A,124.6397909
+Arkansas,Lawrence,Corn,Irrigated,YP,1,50%,Basic,N/A,195.911582
+Arkansas,Lawrence,Corn,Irrigated,YP,1,55%,Basic,N/A,205.7285037
+Arkansas,Lawrence,Corn,Irrigated,YP,1,60%,Basic,N/A,219.6915934
+Arkansas,Lawrence,Corn,Irrigated,YP,1,65%,Basic,N/A,225.8648921
+Arkansas,Lawrence,Corn,Irrigated,YP,1,70%,Basic,N/A,240.0562039
+Arkansas,Lawrence,Corn,Irrigated,YP,1,75%,Basic,N/A,245.9616818
+Arkansas,Lawrence,Corn,Irrigated,YP,1,80%,Basic,N/A,242.9844729
+Arkansas,Lawrence,Corn,Irrigated,YP,1,85%,Basic,N/A,228.5535839
+Arkansas,Lawrence,Corn,Irrigated,YP,1,No Insurance,Basic,ARC-CO,223.5302784
+Arkansas,Lawrence,Corn,Irrigated,YP,1,50%,Basic,ARC-CO,294.8020695
+Arkansas,Lawrence,Corn,Irrigated,YP,1,55%,Basic,ARC-CO,304.6189912
+Arkansas,Lawrence,Corn,Irrigated,YP,1,60%,Basic,ARC-CO,318.5820809
+Arkansas,Lawrence,Corn,Irrigated,YP,1,65%,Basic,ARC-CO,324.7553796
+Arkansas,Lawrence,Corn,Irrigated,YP,1,70%,Basic,ARC-CO,338.9466914
+Arkansas,Lawrence,Corn,Irrigated,YP,1,75%,Basic,ARC-CO,344.8521693
+Arkansas,Lawrence,Corn,Irrigated,YP,1,80%,Basic,ARC-CO,341.8749604
+Arkansas,Lawrence,Corn,Irrigated,YP,1,85%,Basic,ARC-CO,327.4440714
+Arkansas,Lawrence,Corn,Irrigated,YP,1,No Insurance,Enterprise,PLC,124.6397909
+Arkansas,Lawrence,Corn,Irrigated,YP,1,50%,Enterprise,PLC,209.740437
+Arkansas,Lawrence,Corn,Irrigated,YP,1,55%,Enterprise,PLC,226.0006819
+Arkansas,Lawrence,Corn,Irrigated,YP,1,60%,Enterprise,PLC,243.454544
+Arkansas,Lawrence,Corn,Irrigated,YP,1,65%,Enterprise,PLC,261.8941654
+Arkansas,Lawrence,Corn,Irrigated,YP,1,70%,Enterprise,PLC,281.1366221
+Arkansas,Lawrence,Corn,Irrigated,YP,1,75%,Enterprise,PLC,294.4904381
+Arkansas,Lawrence,Corn,Irrigated,YP,1,80%,Enterprise,PLC,292.2947571
+Arkansas,Lawrence,Corn,Irrigated,YP,1,85%,Enterprise,PLC,269.5721864
+Arkansas,Lawrence,Corn,Irrigated,YP,1,No Insurance,Enterprise,N/A,124.6397909
+Arkansas,Lawrence,Corn,Irrigated,YP,1,50%,Enterprise,N/A,209.740437
+Arkansas,Lawrence,Corn,Irrigated,YP,1,55%,Enterprise,N/A,226.0006819
+Arkansas,Lawrence,Corn,Irrigated,YP,1,60%,Enterprise,N/A,243.454544
+Arkansas,Lawrence,Corn,Irrigated,YP,1,65%,Enterprise,N/A,261.8941654
+Arkansas,Lawrence,Corn,Irrigated,YP,1,70%,Enterprise,N/A,281.1366221
+Arkansas,Lawrence,Corn,Irrigated,YP,1,75%,Enterprise,N/A,294.4904381
+Arkansas,Lawrence,Corn,Irrigated,YP,1,80%,Enterprise,N/A,292.2947571
+Arkansas,Lawrence,Corn,Irrigated,YP,1,85%,Enterprise,N/A,269.5721864
+Arkansas,Lawrence,Corn,Irrigated,YP,1,No Insurance,Enterprise,ARC-CO,223.5302784
+Arkansas,Lawrence,Corn,Irrigated,YP,1,50%,Enterprise,ARC-CO,308.6309245
+Arkansas,Lawrence,Corn,Irrigated,YP,1,55%,Enterprise,ARC-CO,324.8911694
+Arkansas,Lawrence,Corn,Irrigated,YP,1,60%,Enterprise,ARC-CO,342.3450315
+Arkansas,Lawrence,Corn,Irrigated,YP,1,65%,Enterprise,ARC-CO,360.7846529
+Arkansas,Lawrence,Corn,Irrigated,YP,1,70%,Enterprise,ARC-CO,380.0271096
+Arkansas,Lawrence,Corn,Irrigated,YP,1,75%,Enterprise,ARC-CO,393.3809256
+Arkansas,Lawrence,Corn,Irrigated,YP,1,80%,Enterprise,ARC-CO,391.1852446
+Arkansas,Lawrence,Corn,Irrigated,YP,1,85%,Enterprise,ARC-CO,368.4626739
+Arkansas,Lawrence,Corn,Irrigated,RP,2,No Insurance,Basic,PLC,124.6397909
+Arkansas,Lawrence,Corn,Irrigated,RP,2,50%,Basic,PLC,202.8938102
+Arkansas,Lawrence,Corn,Irrigated,RP,2,55%,Basic,PLC,213.6572801
+Arkansas,Lawrence,Corn,Irrigated,RP,2,60%,Basic,PLC,229.24224
+Arkansas,Lawrence,Corn,Irrigated,RP,2,65%,Basic,PLC,236.2140173
+Arkansas,Lawrence,Corn,Irrigated,RP,2,70%,Basic,PLC,252.1604374
+Arkansas,Lawrence,Corn,Irrigated,RP,2,75%,Basic,PLC,258.8056514
+Arkansas,Lawrence,Corn,Irrigated,RP,2,80%,Basic,PLC,255.5173173
+Arkansas,Lawrence,Corn,Irrigated,RP,2,85%,Basic,PLC,239.5516303
+Arkansas,Lawrence,Corn,Irrigated,RP,2,No Insurance,Basic,N/A,124.6397909
+Arkansas,Lawrence,Corn,Irrigated,RP,2,50%,Basic,N/A,202.8938102
+Arkansas,Lawrence,Corn,Irrigated,RP,2,55%,Basic,N/A,213.6572801
+Arkansas,Lawrence,Corn,Irrigated,RP,2,60%,Basic,N/A,229.24224
+Arkansas,Lawrence,Corn,Irrigated,RP,2,65%,Basic,N/A,236.2140173
+Arkansas,Lawrence,Corn,Irrigated,RP,2,70%,Basic,N/A,252.1604374
+Arkansas,Lawrence,Corn,Irrigated,RP,2,75%,Basic,N/A,258.8056514
+Arkansas,Lawrence,Corn,Irrigated,RP,2,80%,Basic,N/A,255.5173173
+Arkansas,Lawrence,Corn,Irrigated,RP,2,85%,Basic,N/A,239.5516303
+Arkansas,Lawrence,Corn,Irrigated,RP,2,No Insurance,Basic,ARC-CO,223.5302784
+Arkansas,Lawrence,Corn,Irrigated,RP,2,50%,Basic,ARC-CO,301.7842977
+Arkansas,Lawrence,Corn,Irrigated,RP,2,55%,Basic,ARC-CO,312.5477676
+Arkansas,Lawrence,Corn,Irrigated,RP,2,60%,Basic,ARC-CO,328.1327275
+Arkansas,Lawrence,Corn,Irrigated,RP,2,65%,Basic,ARC-CO,335.1045048
+Arkansas,Lawrence,Corn,Irrigated,RP,2,70%,Basic,ARC-CO,351.0509249
+Arkansas,Lawrence,Corn,Irrigated,RP,2,75%,Basic,ARC-CO,357.6961389
+Arkansas,Lawrence,Corn,Irrigated,RP,2,80%,Basic,ARC-CO,354.4078048
+Arkansas,Lawrence,Corn,Irrigated,RP,2,85%,Basic,ARC-CO,338.4421178
+Arkansas,Lawrence,Corn,Irrigated,RP,2,No Insurance,Enterprise,PLC,124.6397909
+Arkansas,Lawrence,Corn,Irrigated,RP,2,50%,Enterprise,PLC,218.5381931
+Arkansas,Lawrence,Corn,Irrigated,RP,2,55%,Enterprise,PLC,236.5399002
+Arkansas,Lawrence,Corn,Irrigated,RP,2,60%,Enterprise,PLC,255.9499474
+Arkansas,Lawrence,Corn,Irrigated,RP,2,65%,Enterprise,PLC,276.5112265
+Arkansas,Lawrence,Corn,Irrigated,RP,2,70%,Enterprise,PLC,297.9472618
+Arkansas,Lawrence,Corn,Irrigated,RP,2,75%,Enterprise,PLC,312.7914116
+Arkansas,Lawrence,Corn,Irrigated,RP,2,80%,Enterprise,PLC,310.3245949
+Arkansas,Lawrence,Corn,Irrigated,RP,2,85%,Enterprise,PLC,285.1052209
+Arkansas,Lawrence,Corn,Irrigated,RP,2,No Insurance,Enterprise,N/A,124.6397909
+Arkansas,Lawrence,Corn,Irrigated,RP,2,50%,Enterprise,N/A,218.5381931
+Arkansas,Lawrence,Corn,Irrigated,RP,2,55%,Enterprise,N/A,236.5399002
+Arkansas,Lawrence,Corn,Irrigated,RP,2,60%,Enterprise,N/A,255.9499474
+Arkansas,Lawrence,Corn,Irrigated,RP,2,65%,Enterprise,N/A,276.5112265
+Arkansas,Lawrence,Corn,Irrigated,RP,2,70%,Enterprise,N/A,297.9472618
+Arkansas,Lawrence,Corn,Irrigated,RP,2,75%,Enterprise,N/A,312.7914116
+Arkansas,Lawrence,Corn,Irrigated,RP,2,80%,Enterprise,N/A,310.3245949
+Arkansas,Lawrence,Corn,Irrigated,RP,2,85%,Enterprise,N/A,285.1052209
+Arkansas,Lawrence,Corn,Irrigated,RP,2,No Insurance,Enterprise,ARC-CO,223.5302784
+Arkansas,Lawrence,Corn,Irrigated,RP,2,50%,Enterprise,ARC-CO,317.4286806
+Arkansas,Lawrence,Corn,Irrigated,RP,2,55%,Enterprise,ARC-CO,335.4303877
+Arkansas,Lawrence,Corn,Irrigated,RP,2,60%,Enterprise,ARC-CO,354.8404349
+Arkansas,Lawrence,Corn,Irrigated,RP,2,65%,Enterprise,ARC-CO,375.401714
+Arkansas,Lawrence,Corn,Irrigated,RP,2,70%,Enterprise,ARC-CO,396.8377493
+Arkansas,Lawrence,Corn,Irrigated,RP,2,75%,Enterprise,ARC-CO,411.6818991
+Arkansas,Lawrence,Corn,Irrigated,RP,2,80%,Enterprise,ARC-CO,409.2150824
+Arkansas,Lawrence,Corn,Irrigated,RP,2,85%,Enterprise,ARC-CO,383.9957084
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,No Insurance,Basic,PLC,124.6397909
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,50%,Basic,PLC,189.7477308
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,55%,Basic,PLC,199.0607164
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,60%,Basic,PLC,211.9822811
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,65%,Basic,PLC,217.8535068
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,70%,Basic,PLC,231.2412812
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,75%,Basic,PLC,237.0359154
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,80%,Basic,PLC,234.4865858
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,85%,Basic,PLC,221.2488382
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,No Insurance,Basic,N/A,124.6397909
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,50%,Basic,N/A,189.7477308
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,55%,Basic,N/A,199.0607164
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,60%,Basic,N/A,211.9822811
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,65%,Basic,N/A,217.8535068
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,70%,Basic,N/A,231.2412812
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,75%,Basic,N/A,237.0359154
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,80%,Basic,N/A,234.4865858
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,85%,Basic,N/A,221.2488382
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,No Insurance,Basic,ARC-CO,223.5302784
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,50%,Basic,ARC-CO,288.6382183
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,55%,Basic,ARC-CO,297.9512039
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,60%,Basic,ARC-CO,310.8727686
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,65%,Basic,ARC-CO,316.7439943
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,70%,Basic,ARC-CO,330.1317687
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,75%,Basic,ARC-CO,335.9264029
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,80%,Basic,ARC-CO,333.3770733
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,85%,Basic,ARC-CO,320.1393257
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,No Insurance,Enterprise,PLC,124.6397909
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,50%,Enterprise,PLC,202.3806146
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,55%,Enterprise,PLC,217.6659478
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,60%,Enterprise,PLC,233.8179036
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,65%,Enterprise,PLC,251.0312701
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,70%,Enterprise,PLC,269.1841846
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,75%,Enterprise,PLC,281.9943651
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,80%,Enterprise,PLC,280.2560837
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,85%,Enterprise,PLC,259.3839884
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,No Insurance,Enterprise,N/A,124.6397909
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,50%,Enterprise,N/A,202.3806146
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,55%,Enterprise,N/A,217.6659478
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,60%,Enterprise,N/A,233.8179036
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,65%,Enterprise,N/A,251.0312701
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,70%,Enterprise,N/A,269.1841846
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,75%,Enterprise,N/A,281.9943651
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,80%,Enterprise,N/A,280.2560837
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,85%,Enterprise,N/A,259.3839884
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,No Insurance,Enterprise,ARC-CO,223.5302784
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,50%,Enterprise,ARC-CO,301.2711021
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,55%,Enterprise,ARC-CO,316.5564353
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,60%,Enterprise,ARC-CO,332.7083911
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,65%,Enterprise,ARC-CO,349.9217576
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,70%,Enterprise,ARC-CO,368.0746721
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,75%,Enterprise,ARC-CO,380.8848526
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,80%,Enterprise,ARC-CO,379.1465712
+Arkansas,Lawrence,Corn,Irrigated,RP-HPE,3,85%,Enterprise,ARC-CO,358.2744759
+Arkansas,Lawrence,Rice,Irrigated,YP,1,No Insurance,Basic,PLC,-74.92955765
+Arkansas,Lawrence,Rice,Irrigated,YP,1,50%,Basic,PLC,-58.70060525
+Arkansas,Lawrence,Rice,Irrigated,YP,1,55%,Basic,PLC,-55.57397167
+Arkansas,Lawrence,Rice,Irrigated,YP,1,60%,Basic,PLC,-51.12265303
+Arkansas,Lawrence,Rice,Irrigated,YP,1,65%,Basic,PLC,-48.22045237
+Arkansas,Lawrence,Rice,Irrigated,YP,1,70%,Basic,PLC,-42.77092771
+Arkansas,Lawrence,Rice,Irrigated,YP,1,75%,Basic,PLC,-39.15047349
+Arkansas,Lawrence,Rice,Irrigated,YP,1,80%,Basic,PLC,-38.04617508
+Arkansas,Lawrence,Rice,Irrigated,YP,1,85%,Basic,PLC,-40.71939644
+Arkansas,Lawrence,Rice,Irrigated,YP,1,No Insurance,Basic,N/A,-74.92955765
+Arkansas,Lawrence,Rice,Irrigated,YP,1,50%,Basic,N/A,-58.70060525
+Arkansas,Lawrence,Rice,Irrigated,YP,1,55%,Basic,N/A,-55.57397167
+Arkansas,Lawrence,Rice,Irrigated,YP,1,60%,Basic,N/A,-51.12265303
+Arkansas,Lawrence,Rice,Irrigated,YP,1,65%,Basic,N/A,-48.22045237
+Arkansas,Lawrence,Rice,Irrigated,YP,1,70%,Basic,N/A,-42.77092771
+Arkansas,Lawrence,Rice,Irrigated,YP,1,75%,Basic,N/A,-39.15047349
+Arkansas,Lawrence,Rice,Irrigated,YP,1,80%,Basic,N/A,-38.04617508
+Arkansas,Lawrence,Rice,Irrigated,YP,1,85%,Basic,N/A,-40.71939644
+Arkansas,Lawrence,Rice,Irrigated,YP,1,No Insurance,Basic,ARC-CO,-74.92955765
+Arkansas,Lawrence,Rice,Irrigated,YP,1,50%,Basic,ARC-CO,-58.70060525
+Arkansas,Lawrence,Rice,Irrigated,YP,1,55%,Basic,ARC-CO,-55.57397167
+Arkansas,Lawrence,Rice,Irrigated,YP,1,60%,Basic,ARC-CO,-51.12265303
+Arkansas,Lawrence,Rice,Irrigated,YP,1,65%,Basic,ARC-CO,-48.22045237
+Arkansas,Lawrence,Rice,Irrigated,YP,1,70%,Basic,ARC-CO,-42.77092771
+Arkansas,Lawrence,Rice,Irrigated,YP,1,75%,Basic,ARC-CO,-39.15047349
+Arkansas,Lawrence,Rice,Irrigated,YP,1,80%,Basic,ARC-CO,-38.04617508
+Arkansas,Lawrence,Rice,Irrigated,YP,1,85%,Basic,ARC-CO,-40.71939644
+Arkansas,Lawrence,Rice,Irrigated,YP,1,No Insurance,Enterprise,PLC,-74.92955765
+Arkansas,Lawrence,Rice,Irrigated,YP,1,50%,Enterprise,PLC,-55.55170404
+Arkansas,Lawrence,Rice,Irrigated,YP,1,55%,Enterprise,PLC,-50.73507518
+Arkansas,Lawrence,Rice,Irrigated,YP,1,60%,Enterprise,PLC,-45.17092688
+Arkansas,Lawrence,Rice,Irrigated,YP,1,65%,Enterprise,PLC,-38.71382167
+Arkansas,Lawrence,Rice,Irrigated,YP,1,70%,Enterprise,PLC,-31.32463569
+Arkansas,Lawrence,Rice,Irrigated,YP,1,75%,Enterprise,PLC,-24.83883983
+Arkansas,Lawrence,Rice,Irrigated,YP,1,80%,Enterprise,PLC,-22.67809901
+Arkansas,Lawrence,Rice,Irrigated,YP,1,85%,Enterprise,PLC,-27.21538543
+Arkansas,Lawrence,Rice,Irrigated,YP,1,No Insurance,Enterprise,N/A,-74.92955765
+Arkansas,Lawrence,Rice,Irrigated,YP,1,50%,Enterprise,N/A,-55.55170404
+Arkansas,Lawrence,Rice,Irrigated,YP,1,55%,Enterprise,N/A,-50.73507518
+Arkansas,Lawrence,Rice,Irrigated,YP,1,60%,Enterprise,N/A,-45.17092688
+Arkansas,Lawrence,Rice,Irrigated,YP,1,65%,Enterprise,N/A,-38.71382167
+Arkansas,Lawrence,Rice,Irrigated,YP,1,70%,Enterprise,N/A,-31.32463569
+Arkansas,Lawrence,Rice,Irrigated,YP,1,75%,Enterprise,N/A,-24.83883983
+Arkansas,Lawrence,Rice,Irrigated,YP,1,80%,Enterprise,N/A,-22.67809901
+Arkansas,Lawrence,Rice,Irrigated,YP,1,85%,Enterprise,N/A,-27.21538543
+Arkansas,Lawrence,Rice,Irrigated,YP,1,No Insurance,Enterprise,ARC-CO,-74.92955765
+Arkansas,Lawrence,Rice,Irrigated,YP,1,50%,Enterprise,ARC-CO,-55.55170404
+Arkansas,Lawrence,Rice,Irrigated,YP,1,55%,Enterprise,ARC-CO,-50.73507518
+Arkansas,Lawrence,Rice,Irrigated,YP,1,60%,Enterprise,ARC-CO,-45.17092688
+Arkansas,Lawrence,Rice,Irrigated,YP,1,65%,Enterprise,ARC-CO,-38.71382167
+Arkansas,Lawrence,Rice,Irrigated,YP,1,70%,Enterprise,ARC-CO,-31.32463569
+Arkansas,Lawrence,Rice,Irrigated,YP,1,75%,Enterprise,ARC-CO,-24.83883983
+Arkansas,Lawrence,Rice,Irrigated,YP,1,80%,Enterprise,ARC-CO,-22.67809901
+Arkansas,Lawrence,Rice,Irrigated,YP,1,85%,Enterprise,ARC-CO,-27.21538543
+Arkansas,Lawrence,Rice,Irrigated,RP,2,No Insurance,Basic,PLC,-74.92955765
+Arkansas,Lawrence,Rice,Irrigated,RP,2,50%,Basic,PLC,-58.43991423
+Arkansas,Lawrence,Rice,Irrigated,RP,2,55%,Basic,PLC,-55.37187742
+Arkansas,Lawrence,Rice,Irrigated,RP,2,60%,Basic,PLC,-50.93701324
+Arkansas,Lawrence,Rice,Irrigated,RP,2,65%,Basic,PLC,-48.28721772
+Arkansas,Lawrence,Rice,Irrigated,RP,2,70%,Basic,PLC,-42.94718387
+Arkansas,Lawrence,Rice,Irrigated,RP,2,75%,Basic,PLC,-39.67177505
+Arkansas,Lawrence,Rice,Irrigated,RP,2,80%,Basic,PLC,-39.34595719
+Arkansas,Lawrence,Rice,Irrigated,RP,2,85%,Basic,PLC,-43.48598759
+Arkansas,Lawrence,Rice,Irrigated,RP,2,No Insurance,Basic,N/A,-74.92955765
+Arkansas,Lawrence,Rice,Irrigated,RP,2,50%,Basic,N/A,-58.43991423
+Arkansas,Lawrence,Rice,Irrigated,RP,2,55%,Basic,N/A,-55.37187742
+Arkansas,Lawrence,Rice,Irrigated,RP,2,60%,Basic,N/A,-50.93701324
+Arkansas,Lawrence,Rice,Irrigated,RP,2,65%,Basic,N/A,-48.28721772
+Arkansas,Lawrence,Rice,Irrigated,RP,2,70%,Basic,N/A,-42.94718387
+Arkansas,Lawrence,Rice,Irrigated,RP,2,75%,Basic,N/A,-39.67177505
+Arkansas,Lawrence,Rice,Irrigated,RP,2,80%,Basic,N/A,-39.34595719
+Arkansas,Lawrence,Rice,Irrigated,RP,2,85%,Basic,N/A,-43.48598759
+Arkansas,Lawrence,Rice,Irrigated,RP,2,No Insurance,Basic,ARC-CO,-74.92955765
+Arkansas,Lawrence,Rice,Irrigated,RP,2,50%,Basic,ARC-CO,-58.43991423
+Arkansas,Lawrence,Rice,Irrigated,RP,2,55%,Basic,ARC-CO,-55.37187742
+Arkansas,Lawrence,Rice,Irrigated,RP,2,60%,Basic,ARC-CO,-50.93701324
+Arkansas,Lawrence,Rice,Irrigated,RP,2,65%,Basic,ARC-CO,-48.28721772
+Arkansas,Lawrence,Rice,Irrigated,RP,2,70%,Basic,ARC-CO,-42.94718387
+Arkansas,Lawrence,Rice,Irrigated,RP,2,75%,Basic,ARC-CO,-39.67177505
+Arkansas,Lawrence,Rice,Irrigated,RP,2,80%,Basic,ARC-CO,-39.34595719
+Arkansas,Lawrence,Rice,Irrigated,RP,2,85%,Basic,ARC-CO,-43.48598759
+Arkansas,Lawrence,Rice,Irrigated,RP,2,No Insurance,Enterprise,PLC,-74.92955765
+Arkansas,Lawrence,Rice,Irrigated,RP,2,50%,Enterprise,PLC,-55.0054575
+Arkansas,Lawrence,Rice,Irrigated,RP,2,55%,Enterprise,PLC,-50.07529932
+Arkansas,Lawrence,Rice,Irrigated,RP,2,60%,Enterprise,PLC,-44.39347948
+Arkansas,Lawrence,Rice,Irrigated,RP,2,65%,Enterprise,PLC,-37.79894048
+Arkansas,Lawrence,Rice,Irrigated,RP,2,70%,Enterprise,PLC,-30.26771602
+Arkansas,Lawrence,Rice,Irrigated,RP,2,75%,Enterprise,PLC,-23.80127617
+Arkansas,Lawrence,Rice,Irrigated,RP,2,80%,Enterprise,PLC,-22.26449058
+Arkansas,Lawrence,Rice,Irrigated,RP,2,85%,Enterprise,PLC,-28.41715327
+Arkansas,Lawrence,Rice,Irrigated,RP,2,No Insurance,Enterprise,N/A,-74.92955765
+Arkansas,Lawrence,Rice,Irrigated,RP,2,50%,Enterprise,N/A,-55.0054575
+Arkansas,Lawrence,Rice,Irrigated,RP,2,55%,Enterprise,N/A,-50.07529932
+Arkansas,Lawrence,Rice,Irrigated,RP,2,60%,Enterprise,N/A,-44.39347948
+Arkansas,Lawrence,Rice,Irrigated,RP,2,65%,Enterprise,N/A,-37.79894048
+Arkansas,Lawrence,Rice,Irrigated,RP,2,70%,Enterprise,N/A,-30.26771602
+Arkansas,Lawrence,Rice,Irrigated,RP,2,75%,Enterprise,N/A,-23.80127617
+Arkansas,Lawrence,Rice,Irrigated,RP,2,80%,Enterprise,N/A,-22.26449058
+Arkansas,Lawrence,Rice,Irrigated,RP,2,85%,Enterprise,N/A,-28.41715327
+Arkansas,Lawrence,Rice,Irrigated,RP,2,No Insurance,Enterprise,ARC-CO,-74.92955765
+Arkansas,Lawrence,Rice,Irrigated,RP,2,50%,Enterprise,ARC-CO,-55.0054575
+Arkansas,Lawrence,Rice,Irrigated,RP,2,55%,Enterprise,ARC-CO,-50.07529932
+Arkansas,Lawrence,Rice,Irrigated,RP,2,60%,Enterprise,ARC-CO,-44.39347948
+Arkansas,Lawrence,Rice,Irrigated,RP,2,65%,Enterprise,ARC-CO,-37.79894048
+Arkansas,Lawrence,Rice,Irrigated,RP,2,70%,Enterprise,ARC-CO,-30.26771602
+Arkansas,Lawrence,Rice,Irrigated,RP,2,75%,Enterprise,ARC-CO,-23.80127617
+Arkansas,Lawrence,Rice,Irrigated,RP,2,80%,Enterprise,ARC-CO,-22.26449058
+Arkansas,Lawrence,Rice,Irrigated,RP,2,85%,Enterprise,ARC-CO,-28.41715327
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,No Insurance,Basic,PLC,-74.92955765
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,50%,Basic,PLC,-59.50372445
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,55%,Basic,PLC,-56.59553423
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,60%,Basic,PLC,-52.41461644
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,65%,Basic,PLC,-49.76425224
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,70%,Basic,PLC,-44.69338255
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,75%,Basic,PLC,-41.35391083
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,80%,Basic,PLC,-40.34243861
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,85%,Basic,PLC,-42.89280078
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,No Insurance,Basic,N/A,-74.92955765
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,50%,Basic,N/A,-59.50372445
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,55%,Basic,N/A,-56.59553423
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,60%,Basic,N/A,-52.41461644
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,65%,Basic,N/A,-49.76425224
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,70%,Basic,N/A,-44.69338255
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,75%,Basic,N/A,-41.35391083
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,80%,Basic,N/A,-40.34243861
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,85%,Basic,N/A,-42.89280078
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,No Insurance,Basic,ARC-CO,-74.92955765
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,50%,Basic,ARC-CO,-59.50372445
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,55%,Basic,ARC-CO,-56.59553423
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,60%,Basic,ARC-CO,-52.41461644
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,65%,Basic,ARC-CO,-49.76425224
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,70%,Basic,ARC-CO,-44.69338255
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,75%,Basic,ARC-CO,-41.35391083
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,80%,Basic,ARC-CO,-40.34243861
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,85%,Basic,ARC-CO,-42.89280078
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,No Insurance,Enterprise,PLC,-74.92955765
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,50%,Enterprise,PLC,-56.51065233
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,55%,Enterprise,PLC,-52.01202838
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,60%,Enterprise,PLC,-46.78588113
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,65%,Enterprise,PLC,-40.80710964
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,70%,Enterprise,PLC,-33.93135413
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,75%,Enterprise,PLC,-27.9236521
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,80%,Enterprise,PLC,-25.93113901
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,85%,Enterprise,PLC,-30.24671254
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,No Insurance,Enterprise,N/A,-74.92955765
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,50%,Enterprise,N/A,-56.51065233
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,55%,Enterprise,N/A,-52.01202838
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,60%,Enterprise,N/A,-46.78588113
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,65%,Enterprise,N/A,-40.80710964
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,70%,Enterprise,N/A,-33.93135413
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,75%,Enterprise,N/A,-27.9236521
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,80%,Enterprise,N/A,-25.93113901
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,85%,Enterprise,N/A,-30.24671254
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,No Insurance,Enterprise,ARC-CO,-74.92955765
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,50%,Enterprise,ARC-CO,-56.51065233
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,55%,Enterprise,ARC-CO,-52.01202838
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,60%,Enterprise,ARC-CO,-46.78588113
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,65%,Enterprise,ARC-CO,-40.80710964
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,70%,Enterprise,ARC-CO,-33.93135413
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,75%,Enterprise,ARC-CO,-27.9236521
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,80%,Enterprise,ARC-CO,-25.93113901
+Arkansas,Lawrence,Rice,Irrigated,RP-HPE,3,85%,Enterprise,ARC-CO,-30.24671254
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,No Insurance,Basic,PLC,-90.29781302
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,50%,Basic,PLC,-84.2650031
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,55%,Basic,PLC,-82.07415497
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,60%,Basic,PLC,-78.95844702
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,65%,Basic,PLC,-76.34386779
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,70%,Basic,PLC,-72.21077425
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,75%,Basic,PLC,-68.95656173
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,80%,Basic,PLC,-67.22441951
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,85%,Basic,PLC,-68.08442368
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,No Insurance,Basic,N/A,-90.29781302
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,50%,Basic,N/A,-84.2650031
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,55%,Basic,N/A,-82.07415497
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,60%,Basic,N/A,-78.95844702
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,65%,Basic,N/A,-76.34386779
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,70%,Basic,N/A,-72.21077425
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,75%,Basic,N/A,-68.95656173
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,80%,Basic,N/A,-67.22441951
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,85%,Basic,N/A,-68.08442368
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,No Insurance,Basic,ARC-CO,-40.57267135
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,50%,Basic,ARC-CO,-34.53986143
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,55%,Basic,ARC-CO,-32.34901331
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,60%,Basic,ARC-CO,-29.23330536
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,65%,Basic,ARC-CO,-26.61872613
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,70%,Basic,ARC-CO,-22.48563258
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,75%,Basic,ARC-CO,-19.23142007
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,80%,Basic,ARC-CO,-17.49927784
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,85%,Basic,ARC-CO,-18.35928201
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,No Insurance,Enterprise,PLC,-90.29781302
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,50%,Enterprise,PLC,-83.09445789
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,55%,Enterprise,PLC,-80.01824046
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,60%,Enterprise,PLC,-76.12360552
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,65%,Enterprise,PLC,-71.37720932
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,70%,Enterprise,PLC,-65.77301468
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,75%,Enterprise,PLC,-60.42006122
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,80%,Enterprise,PLC,-57.61050555
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,85%,Enterprise,PLC,-59.31598052
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,No Insurance,Enterprise,N/A,-90.29781302
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,50%,Enterprise,N/A,-83.09445789
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,55%,Enterprise,N/A,-80.01824046
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,60%,Enterprise,N/A,-76.12360552
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,65%,Enterprise,N/A,-71.37720932
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,70%,Enterprise,N/A,-65.77301468
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,75%,Enterprise,N/A,-60.42006122
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,80%,Enterprise,N/A,-57.61050555
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,85%,Enterprise,N/A,-59.31598052
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,No Insurance,Enterprise,ARC-CO,-40.57267135
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,50%,Enterprise,ARC-CO,-33.36931623
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,55%,Enterprise,ARC-CO,-30.29309879
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,60%,Enterprise,ARC-CO,-26.39846386
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,65%,Enterprise,ARC-CO,-21.65206766
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,70%,Enterprise,ARC-CO,-16.04787302
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,75%,Enterprise,ARC-CO,-10.69491955
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,80%,Enterprise,ARC-CO,-7.885363883
+Arkansas,Lawrence,Soybeans,Irrigated,YP,1,85%,Enterprise,ARC-CO,-9.590838854
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,No Insurance,Basic,PLC,-90.29781302
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,50%,Basic,PLC,-84.46629487
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,55%,Basic,PLC,-82.43178154
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,60%,Basic,PLC,-79.40518816
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,65%,Basic,PLC,-77.08875314
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,70%,Basic,PLC,-73.08949634
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,75%,Basic,PLC,-70.20823909
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,80%,Basic,PLC,-69.16556793
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,85%,Basic,PLC,-71.14900383
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,No Insurance,Basic,N/A,-90.29781302
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,50%,Basic,N/A,-84.46629487
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,55%,Basic,N/A,-82.43178154
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,60%,Basic,N/A,-79.40518816
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,65%,Basic,N/A,-77.08875314
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,70%,Basic,N/A,-73.08949634
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,75%,Basic,N/A,-70.20823909
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,80%,Basic,N/A,-69.16556793
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,85%,Basic,N/A,-71.14900383
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,No Insurance,Basic,ARC-CO,-40.57267135
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,50%,Basic,ARC-CO,-34.74115321
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,55%,Basic,ARC-CO,-32.70663987
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,60%,Basic,ARC-CO,-29.68004649
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,65%,Basic,ARC-CO,-27.36361147
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,70%,Basic,ARC-CO,-23.36435467
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,75%,Basic,ARC-CO,-20.48309742
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,80%,Basic,ARC-CO,-19.44042626
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,85%,Basic,ARC-CO,-21.42386216
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,No Insurance,Enterprise,PLC,-90.29781302
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,50%,Enterprise,PLC,-83.05622923
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,55%,Enterprise,PLC,-79.95899592
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,60%,Enterprise,PLC,-76.01618923
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,65%,Enterprise,PLC,-71.19379114
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,70%,Enterprise,PLC,-65.4932538
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,75%,Enterprise,PLC,-60.20459126
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,80%,Enterprise,PLC,-57.97222753
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,85%,Enterprise,PLC,-61.00238794
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,No Insurance,Enterprise,N/A,-90.29781302
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,50%,Enterprise,N/A,-83.05622923
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,55%,Enterprise,N/A,-79.95899592
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,60%,Enterprise,N/A,-76.01618923
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,65%,Enterprise,N/A,-71.19379114
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,70%,Enterprise,N/A,-65.4932538
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,75%,Enterprise,N/A,-60.20459126
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,80%,Enterprise,N/A,-57.97222753
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,85%,Enterprise,N/A,-61.00238794
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,No Insurance,Enterprise,ARC-CO,-40.57267135
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,50%,Enterprise,ARC-CO,-33.33108756
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,55%,Enterprise,ARC-CO,-30.23385425
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,60%,Enterprise,ARC-CO,-26.29104757
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,65%,Enterprise,ARC-CO,-21.46864947
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,70%,Enterprise,ARC-CO,-15.76811214
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,75%,Enterprise,ARC-CO,-10.47944959
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,80%,Enterprise,ARC-CO,-8.247085859
+Arkansas,Lawrence,Soybeans,Irrigated,RP,2,85%,Enterprise,ARC-CO,-11.27724627
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,No Insurance,Basic,PLC,-90.29781302
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,50%,Basic,PLC,-84.93308849
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,55%,Basic,PLC,-83.00468414
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,60%,Basic,PLC,-80.2129505
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,65%,Basic,PLC,-77.84704584
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,70%,Basic,PLC,-74.06605
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,75%,Basic,PLC,-71.07925164
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,80%,Basic,PLC,-69.42897182
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,85%,Basic,PLC,-70.13384109
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,No Insurance,Basic,N/A,-90.29781302
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,50%,Basic,N/A,-84.93308849
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,55%,Basic,N/A,-83.00468414
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,60%,Basic,N/A,-80.2129505
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,65%,Basic,N/A,-77.84704584
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,70%,Basic,N/A,-74.06605
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,75%,Basic,N/A,-71.07925164
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,80%,Basic,N/A,-69.42897182
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,85%,Basic,N/A,-70.13384109
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,No Insurance,Basic,ARC-CO,-40.57267135
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,50%,Basic,ARC-CO,-35.20794682
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,55%,Basic,ARC-CO,-33.27954247
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,60%,Basic,ARC-CO,-30.48780884
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,65%,Basic,ARC-CO,-28.12190417
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,70%,Basic,ARC-CO,-24.34090833
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,75%,Basic,ARC-CO,-21.35410997
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,80%,Basic,ARC-CO,-19.70383015
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,85%,Basic,ARC-CO,-20.40869942
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,No Insurance,Enterprise,PLC,-90.29781302
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,50%,Enterprise,PLC,-83.89217179
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,55%,Enterprise,PLC,-81.18140192
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,60%,Enterprise,PLC,-77.69173488
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,65%,Enterprise,PLC,-73.41541684
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,70%,Enterprise,PLC,-68.28864282
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,75%,Enterprise,PLC,-63.39182708
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,80%,Enterprise,PLC,-60.73362132
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,85%,Enterprise,PLC,-62.17437848
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,No Insurance,Enterprise,N/A,-90.29781302
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,50%,Enterprise,N/A,-83.89217179
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,55%,Enterprise,N/A,-81.18140192
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,60%,Enterprise,N/A,-77.69173488
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,65%,Enterprise,N/A,-73.41541684
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,70%,Enterprise,N/A,-68.28864282
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,75%,Enterprise,N/A,-63.39182708
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,80%,Enterprise,N/A,-60.73362132
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,85%,Enterprise,N/A,-62.17437848
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,No Insurance,Enterprise,ARC-CO,-40.57267135
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,50%,Enterprise,ARC-CO,-34.16703012
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,55%,Enterprise,ARC-CO,-31.45626025
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,60%,Enterprise,ARC-CO,-27.96659321
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,65%,Enterprise,ARC-CO,-23.69027518
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,70%,Enterprise,ARC-CO,-18.56350115
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,75%,Enterprise,ARC-CO,-13.66668542
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,80%,Enterprise,ARC-CO,-11.00847966
+Arkansas,Lawrence,Soybeans,Irrigated,RP-HPE,3,85%,Enterprise,ARC-CO,-12.44923681
+Arkansas,Mississippi,Rice,Irrigated,YP,1,No Insurance,Basic,PLC,53.69160116
+Arkansas,Mississippi,Rice,Irrigated,YP,1,50%,Basic,PLC,66.93538891
+Arkansas,Mississippi,Rice,Irrigated,YP,1,55%,Basic,PLC,69.34591498
+Arkansas,Mississippi,Rice,Irrigated,YP,1,60%,Basic,PLC,72.83121233
+Arkansas,Mississippi,Rice,Irrigated,YP,1,65%,Basic,PLC,75.14398281
+Arkansas,Mississippi,Rice,Irrigated,YP,1,70%,Basic,PLC,79.60322957
+Arkansas,Mississippi,Rice,Irrigated,YP,1,75%,Basic,PLC,82.63753964
+Arkansas,Mississippi,Rice,Irrigated,YP,1,80%,Basic,PLC,83.82933431
+Arkansas,Mississippi,Rice,Irrigated,YP,1,85%,Basic,PLC,81.98811683
+Arkansas,Mississippi,Rice,Irrigated,YP,1,No Insurance,Basic,N/A,53.69160116
+Arkansas,Mississippi,Rice,Irrigated,YP,1,50%,Basic,N/A,66.93538891
+Arkansas,Mississippi,Rice,Irrigated,YP,1,55%,Basic,N/A,69.34591498
+Arkansas,Mississippi,Rice,Irrigated,YP,1,60%,Basic,N/A,72.83121233
+Arkansas,Mississippi,Rice,Irrigated,YP,1,65%,Basic,N/A,75.14398281
+Arkansas,Mississippi,Rice,Irrigated,YP,1,70%,Basic,N/A,79.60322957
+Arkansas,Mississippi,Rice,Irrigated,YP,1,75%,Basic,N/A,82.63753964
+Arkansas,Mississippi,Rice,Irrigated,YP,1,80%,Basic,N/A,83.82933431
+Arkansas,Mississippi,Rice,Irrigated,YP,1,85%,Basic,N/A,81.98811683
+Arkansas,Mississippi,Rice,Irrigated,YP,1,No Insurance,Basic,ARC-CO,53.69160116
+Arkansas,Mississippi,Rice,Irrigated,YP,1,50%,Basic,ARC-CO,66.93538891
+Arkansas,Mississippi,Rice,Irrigated,YP,1,55%,Basic,ARC-CO,69.34591498
+Arkansas,Mississippi,Rice,Irrigated,YP,1,60%,Basic,ARC-CO,72.83121233
+Arkansas,Mississippi,Rice,Irrigated,YP,1,65%,Basic,ARC-CO,75.14398281
+Arkansas,Mississippi,Rice,Irrigated,YP,1,70%,Basic,ARC-CO,79.60322957
+Arkansas,Mississippi,Rice,Irrigated,YP,1,75%,Basic,ARC-CO,82.63753964
+Arkansas,Mississippi,Rice,Irrigated,YP,1,80%,Basic,ARC-CO,83.82933431
+Arkansas,Mississippi,Rice,Irrigated,YP,1,85%,Basic,ARC-CO,81.98811683
+Arkansas,Mississippi,Rice,Irrigated,YP,1,No Insurance,Enterprise,PLC,53.69160116
+Arkansas,Mississippi,Rice,Irrigated,YP,1,50%,Enterprise,PLC,69.50507907
+Arkansas,Mississippi,Rice,Irrigated,YP,1,55%,Enterprise,PLC,73.25949344
+Arkansas,Mississippi,Rice,Irrigated,YP,1,60%,Enterprise,PLC,77.61611513
+Arkansas,Mississippi,Rice,Irrigated,YP,1,65%,Enterprise,PLC,82.77957628
+Arkansas,Mississippi,Rice,Irrigated,YP,1,70%,Enterprise,PLC,88.82601256
+Arkansas,Mississippi,Rice,Irrigated,YP,1,75%,Enterprise,PLC,94.21591503
+Arkansas,Mississippi,Rice,Irrigated,YP,1,80%,Enterprise,PLC,96.38672312
+Arkansas,Mississippi,Rice,Irrigated,YP,1,85%,Enterprise,PLC,93.15779407
+Arkansas,Mississippi,Rice,Irrigated,YP,1,No Insurance,Enterprise,N/A,53.69160116
+Arkansas,Mississippi,Rice,Irrigated,YP,1,50%,Enterprise,N/A,69.50507907
+Arkansas,Mississippi,Rice,Irrigated,YP,1,55%,Enterprise,N/A,73.25949344
+Arkansas,Mississippi,Rice,Irrigated,YP,1,60%,Enterprise,N/A,77.61611513
+Arkansas,Mississippi,Rice,Irrigated,YP,1,65%,Enterprise,N/A,82.77957628
+Arkansas,Mississippi,Rice,Irrigated,YP,1,70%,Enterprise,N/A,88.82601256
+Arkansas,Mississippi,Rice,Irrigated,YP,1,75%,Enterprise,N/A,94.21591503
+Arkansas,Mississippi,Rice,Irrigated,YP,1,80%,Enterprise,N/A,96.38672312
+Arkansas,Mississippi,Rice,Irrigated,YP,1,85%,Enterprise,N/A,93.15779407
+Arkansas,Mississippi,Rice,Irrigated,YP,1,No Insurance,Enterprise,ARC-CO,53.69160116
+Arkansas,Mississippi,Rice,Irrigated,YP,1,50%,Enterprise,ARC-CO,69.50507907
+Arkansas,Mississippi,Rice,Irrigated,YP,1,55%,Enterprise,ARC-CO,73.25949344
+Arkansas,Mississippi,Rice,Irrigated,YP,1,60%,Enterprise,ARC-CO,77.61611513
+Arkansas,Mississippi,Rice,Irrigated,YP,1,65%,Enterprise,ARC-CO,82.77957628
+Arkansas,Mississippi,Rice,Irrigated,YP,1,70%,Enterprise,ARC-CO,88.82601256
+Arkansas,Mississippi,Rice,Irrigated,YP,1,75%,Enterprise,ARC-CO,94.21591503
+Arkansas,Mississippi,Rice,Irrigated,YP,1,80%,Enterprise,ARC-CO,96.38672312
+Arkansas,Mississippi,Rice,Irrigated,YP,1,85%,Enterprise,ARC-CO,93.15779407
+Arkansas,Mississippi,Rice,Irrigated,RP,2,No Insurance,Basic,PLC,53.69160116
+Arkansas,Mississippi,Rice,Irrigated,RP,2,50%,Basic,PLC,67.20754936
+Arkansas,Mississippi,Rice,Irrigated,RP,2,55%,Basic,PLC,69.57640962
+Arkansas,Mississippi,Rice,Irrigated,RP,2,60%,Basic,PLC,73.01879134
+Arkansas,Mississippi,Rice,Irrigated,RP,2,65%,Basic,PLC,75.08171692
+Arkansas,Mississippi,Rice,Irrigated,RP,2,70%,Basic,PLC,79.43325173
+Arkansas,Mississippi,Rice,Irrigated,RP,2,75%,Basic,PLC,82.01077145
+Arkansas,Mississippi,Rice,Irrigated,RP,2,80%,Basic,PLC,82.39033363
+Arkansas,Mississippi,Rice,Irrigated,RP,2,85%,Basic,PLC,79.14972777
+Arkansas,Mississippi,Rice,Irrigated,RP,2,No Insurance,Basic,N/A,53.69160116
+Arkansas,Mississippi,Rice,Irrigated,RP,2,50%,Basic,N/A,67.20754936
+Arkansas,Mississippi,Rice,Irrigated,RP,2,55%,Basic,N/A,69.57640962
+Arkansas,Mississippi,Rice,Irrigated,RP,2,60%,Basic,N/A,73.01879134
+Arkansas,Mississippi,Rice,Irrigated,RP,2,65%,Basic,N/A,75.08171692
+Arkansas,Mississippi,Rice,Irrigated,RP,2,70%,Basic,N/A,79.43325173
+Arkansas,Mississippi,Rice,Irrigated,RP,2,75%,Basic,N/A,82.01077145
+Arkansas,Mississippi,Rice,Irrigated,RP,2,80%,Basic,N/A,82.39033363
+Arkansas,Mississippi,Rice,Irrigated,RP,2,85%,Basic,N/A,79.14972777
+Arkansas,Mississippi,Rice,Irrigated,RP,2,No Insurance,Basic,ARC-CO,53.69160116
+Arkansas,Mississippi,Rice,Irrigated,RP,2,50%,Basic,ARC-CO,67.20754936
+Arkansas,Mississippi,Rice,Irrigated,RP,2,55%,Basic,ARC-CO,69.57640962
+Arkansas,Mississippi,Rice,Irrigated,RP,2,60%,Basic,ARC-CO,73.01879134
+Arkansas,Mississippi,Rice,Irrigated,RP,2,65%,Basic,ARC-CO,75.08171692
+Arkansas,Mississippi,Rice,Irrigated,RP,2,70%,Basic,ARC-CO,79.43325173
+Arkansas,Mississippi,Rice,Irrigated,RP,2,75%,Basic,ARC-CO,82.01077145
+Arkansas,Mississippi,Rice,Irrigated,RP,2,80%,Basic,ARC-CO,82.39033363
+Arkansas,Mississippi,Rice,Irrigated,RP,2,85%,Basic,ARC-CO,79.14972777
+Arkansas,Mississippi,Rice,Irrigated,RP,2,No Insurance,Enterprise,PLC,53.69160116
+Arkansas,Mississippi,Rice,Irrigated,RP,2,50%,Enterprise,PLC,69.99014337
+Arkansas,Mississippi,Rice,Irrigated,RP,2,55%,Enterprise,PLC,73.83495467
+Arkansas,Mississippi,Rice,Irrigated,RP,2,60%,Enterprise,PLC,78.26754389
+Arkansas,Mississippi,Rice,Irrigated,RP,2,65%,Enterprise,PLC,83.51721676
+Arkansas,Mississippi,Rice,Irrigated,RP,2,70%,Enterprise,PLC,89.67243944
+Arkansas,Mississippi,Rice,Irrigated,RP,2,75%,Enterprise,PLC,94.96049501
+Arkansas,Mississippi,Rice,Irrigated,RP,2,80%,Enterprise,PLC,96.50207859
+Arkansas,Mississippi,Rice,Irrigated,RP,2,85%,Enterprise,PLC,91.75387834
+Arkansas,Mississippi,Rice,Irrigated,RP,2,No Insurance,Enterprise,N/A,53.69160116
+Arkansas,Mississippi,Rice,Irrigated,RP,2,50%,Enterprise,N/A,69.99014337
+Arkansas,Mississippi,Rice,Irrigated,RP,2,55%,Enterprise,N/A,73.83495467
+Arkansas,Mississippi,Rice,Irrigated,RP,2,60%,Enterprise,N/A,78.26754389
+Arkansas,Mississippi,Rice,Irrigated,RP,2,65%,Enterprise,N/A,83.51721676
+Arkansas,Mississippi,Rice,Irrigated,RP,2,70%,Enterprise,N/A,89.67243944
+Arkansas,Mississippi,Rice,Irrigated,RP,2,75%,Enterprise,N/A,94.96049501
+Arkansas,Mississippi,Rice,Irrigated,RP,2,80%,Enterprise,N/A,96.50207859
+Arkansas,Mississippi,Rice,Irrigated,RP,2,85%,Enterprise,N/A,91.75387834
+Arkansas,Mississippi,Rice,Irrigated,RP,2,No Insurance,Enterprise,ARC-CO,53.69160116
+Arkansas,Mississippi,Rice,Irrigated,RP,2,50%,Enterprise,ARC-CO,69.99014337
+Arkansas,Mississippi,Rice,Irrigated,RP,2,55%,Enterprise,ARC-CO,73.83495467
+Arkansas,Mississippi,Rice,Irrigated,RP,2,60%,Enterprise,ARC-CO,78.26754389
+Arkansas,Mississippi,Rice,Irrigated,RP,2,65%,Enterprise,ARC-CO,83.51721676
+Arkansas,Mississippi,Rice,Irrigated,RP,2,70%,Enterprise,ARC-CO,89.67243944
+Arkansas,Mississippi,Rice,Irrigated,RP,2,75%,Enterprise,ARC-CO,94.96049501
+Arkansas,Mississippi,Rice,Irrigated,RP,2,80%,Enterprise,ARC-CO,96.50207859
+Arkansas,Mississippi,Rice,Irrigated,RP,2,85%,Enterprise,ARC-CO,91.75387834
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,No Insurance,Basic,PLC,53.69160116
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,50%,Basic,PLC,66.29050217
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,55%,Basic,PLC,68.57324306
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,60%,Basic,PLC,71.83102532
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,65%,Basic,PLC,73.8980602
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,70%,Basic,PLC,77.99671042
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,75%,Basic,PLC,80.75266206
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,80%,Basic,PLC,81.75507285
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,85%,Basic,PLC,79.95488969
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,No Insurance,Basic,N/A,53.69160116
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,50%,Basic,N/A,66.29050217
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,55%,Basic,N/A,68.57324306
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,60%,Basic,N/A,71.83102532
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,65%,Basic,N/A,73.8980602
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,70%,Basic,N/A,77.99671042
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,75%,Basic,N/A,80.75266206
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,80%,Basic,N/A,81.75507285
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,85%,Basic,N/A,79.95488969
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,No Insurance,Basic,ARC-CO,53.69160116
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,50%,Basic,ARC-CO,66.29050217
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,55%,Basic,ARC-CO,68.57324306
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,60%,Basic,ARC-CO,71.83102532
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,65%,Basic,ARC-CO,73.8980602
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,70%,Basic,ARC-CO,77.99671042
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,75%,Basic,ARC-CO,80.75266206
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,80%,Basic,ARC-CO,81.75507285
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,85%,Basic,ARC-CO,79.95488969
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,No Insurance,Enterprise,PLC,53.69160116
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,50%,Enterprise,PLC,68.73506505
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,55%,Enterprise,PLC,72.29365354
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,60%,Enterprise,PLC,76.36588136
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,65%,Enterprise,PLC,81.09018968
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,70%,Enterprise,PLC,86.64768152
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,75%,Enterprise,PLC,91.57708642
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,80%,Enterprise,PLC,93.44818605
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,85%,Enterprise,PLC,90.32197726
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,No Insurance,Enterprise,N/A,53.69160116
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,50%,Enterprise,N/A,68.73506505
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,55%,Enterprise,N/A,72.29365354
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,60%,Enterprise,N/A,76.36588136
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,65%,Enterprise,N/A,81.09018968
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,70%,Enterprise,N/A,86.64768152
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,75%,Enterprise,N/A,91.57708642
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,80%,Enterprise,N/A,93.44818605
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,85%,Enterprise,N/A,90.32197726
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,No Insurance,Enterprise,ARC-CO,53.69160116
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,50%,Enterprise,ARC-CO,68.73506505
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,55%,Enterprise,ARC-CO,72.29365354
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,60%,Enterprise,ARC-CO,76.36588136
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,65%,Enterprise,ARC-CO,81.09018968
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,70%,Enterprise,ARC-CO,86.64768152
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,75%,Enterprise,ARC-CO,91.57708642
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,80%,Enterprise,ARC-CO,93.44818605
+Arkansas,Mississippi,Rice,Irrigated,RP-HPE,3,85%,Enterprise,ARC-CO,90.32197726
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,No Insurance,Basic,PLC,7.20443266
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,50%,Basic,PLC,11.42747273
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,55%,Basic,PLC,12.98143376
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,60%,Basic,PLC,15.30928708
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,65%,Basic,PLC,17.47067419
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,70%,Basic,PLC,20.97060547
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,75%,Basic,PLC,24.06406153
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,80%,Basic,PLC,26.10149726
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,85%,Basic,PLC,26.06148139
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,No Insurance,Basic,N/A,7.20443266
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,50%,Basic,N/A,11.42747273
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,55%,Basic,N/A,12.98143376
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,60%,Basic,N/A,15.30928708
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,65%,Basic,N/A,17.47067419
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,70%,Basic,N/A,20.97060547
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,75%,Basic,N/A,24.06406153
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,80%,Basic,N/A,26.10149726
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,85%,Basic,N/A,26.06148139
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,No Insurance,Basic,ARC-CO,69.33036599
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,50%,Basic,ARC-CO,73.55340606
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,55%,Basic,ARC-CO,75.1073671
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,60%,Basic,ARC-CO,77.43522042
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,65%,Basic,ARC-CO,79.59660752
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,70%,Basic,ARC-CO,83.09653881
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,75%,Basic,ARC-CO,86.18999486
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,80%,Basic,ARC-CO,88.2274306
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,85%,Basic,ARC-CO,88.18741472
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,No Insurance,Enterprise,PLC,7.20443266
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,50%,Enterprise,PLC,12.24686856
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,55%,Enterprise,PLC,14.42568404
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,60%,Enterprise,PLC,17.33550069
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,65%,Enterprise,PLC,21.12476015
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,70%,Enterprise,PLC,25.87042969
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,75%,Enterprise,PLC,30.80791308
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,80%,Enterprise,PLC,33.97527418
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,85%,Enterprise,PLC,33.50505325
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,No Insurance,Enterprise,N/A,7.20443266
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,50%,Enterprise,N/A,12.24686856
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,55%,Enterprise,N/A,14.42568404
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,60%,Enterprise,N/A,17.33550069
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,65%,Enterprise,N/A,21.12476015
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,70%,Enterprise,N/A,25.87042969
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,75%,Enterprise,N/A,30.80791308
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,80%,Enterprise,N/A,33.97527418
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,85%,Enterprise,N/A,33.50505325
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,No Insurance,Enterprise,ARC-CO,69.33036599
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,50%,Enterprise,ARC-CO,74.37280189
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,55%,Enterprise,ARC-CO,76.55161737
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,60%,Enterprise,ARC-CO,79.46143402
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,65%,Enterprise,ARC-CO,83.25069348
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,70%,Enterprise,ARC-CO,87.99636303
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,75%,Enterprise,ARC-CO,92.93384641
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,80%,Enterprise,ARC-CO,96.10120752
+Arkansas,Mississippi,Soybeans,Irrigated,YP,1,85%,Enterprise,ARC-CO,95.63098659
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,No Insurance,Basic,PLC,7.20443266
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,50%,Basic,PLC,11.27304693
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,55%,Basic,PLC,12.66998797
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,60%,Basic,PLC,14.8374776
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,65%,Basic,PLC,16.63756783
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,70%,Basic,PLC,19.85506776
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,75%,Basic,PLC,22.40894241
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,80%,Basic,PLC,23.48074521
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,85%,Basic,PLC,21.82659647
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,No Insurance,Basic,N/A,7.20443266
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,50%,Basic,N/A,11.27304693
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,55%,Basic,N/A,12.66998797
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,60%,Basic,N/A,14.8374776
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,65%,Basic,N/A,16.63756783
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,70%,Basic,N/A,19.85506776
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,75%,Basic,N/A,22.40894241
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,80%,Basic,N/A,23.48074521
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,85%,Basic,N/A,21.82659647
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,No Insurance,Basic,ARC-CO,69.33036599
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,50%,Basic,ARC-CO,73.39898026
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,55%,Basic,ARC-CO,74.7959213
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,60%,Basic,ARC-CO,76.96341093
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,65%,Basic,ARC-CO,78.76350116
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,70%,Basic,ARC-CO,81.98100109
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,75%,Basic,ARC-CO,84.53487575
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,80%,Basic,ARC-CO,85.60667855
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,85%,Basic,ARC-CO,83.95252981
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,No Insurance,Enterprise,PLC,7.20443266
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,50%,Enterprise,PLC,12.26318716
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,55%,Enterprise,PLC,14.43058323
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,60%,Enterprise,PLC,17.32347975
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,65%,Enterprise,PLC,21.11491278
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,70%,Enterprise,PLC,25.85861624
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,75%,Enterprise,PLC,30.63029481
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,80%,Enterprise,PLC,33.0378497
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,85%,Enterprise,PLC,30.83022804
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,No Insurance,Enterprise,N/A,7.20443266
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,50%,Enterprise,N/A,12.26318716
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,55%,Enterprise,N/A,14.43058323
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,60%,Enterprise,N/A,17.32347975
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,65%,Enterprise,N/A,21.11491278
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,70%,Enterprise,N/A,25.85861624
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,75%,Enterprise,N/A,30.63029481
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,80%,Enterprise,N/A,33.0378497
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,85%,Enterprise,N/A,30.83022804
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,No Insurance,Enterprise,ARC-CO,69.33036599
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,50%,Enterprise,ARC-CO,74.3891205
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,55%,Enterprise,ARC-CO,76.55651657
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,60%,Enterprise,ARC-CO,79.44941308
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,65%,Enterprise,ARC-CO,83.24084611
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,70%,Enterprise,ARC-CO,87.98454957
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,75%,Enterprise,ARC-CO,92.75622814
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,80%,Enterprise,ARC-CO,95.16378303
+Arkansas,Mississippi,Soybeans,Irrigated,RP,2,85%,Enterprise,ARC-CO,92.95616137
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,No Insurance,Basic,PLC,7.20443266
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,50%,Basic,PLC,10.96669346
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,55%,Basic,PLC,12.32034386
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,60%,Basic,PLC,14.34725669
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,65%,Basic,PLC,16.22612799
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,70%,Basic,PLC,19.30541924
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,75%,Basic,PLC,22.03196761
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,80%,Basic,PLC,23.8917834
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,85%,Basic,PLC,23.89694547
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,No Insurance,Basic,N/A,7.20443266
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,50%,Basic,N/A,10.96669346
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,55%,Basic,N/A,12.32034386
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,60%,Basic,N/A,14.34725669
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,65%,Basic,N/A,16.22612799
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,70%,Basic,N/A,19.30541924
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,75%,Basic,N/A,22.03196761
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,80%,Basic,N/A,23.8917834
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,85%,Basic,N/A,23.89694547
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,No Insurance,Basic,ARC-CO,69.33036599
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,50%,Basic,ARC-CO,73.09262679
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,55%,Basic,ARC-CO,74.44627719
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,60%,Basic,ARC-CO,76.47319002
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,65%,Basic,ARC-CO,78.35206132
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,70%,Basic,ARC-CO,81.43135257
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,75%,Basic,ARC-CO,84.15790094
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,80%,Basic,ARC-CO,86.01771674
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,85%,Basic,ARC-CO,86.0228788
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,No Insurance,Enterprise,PLC,7.20443266
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,50%,Enterprise,PLC,11.69668436
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,55%,Enterprise,PLC,13.59932166
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,60%,Enterprise,PLC,16.13296269
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,65%,Enterprise,PLC,19.43723988
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,70%,Enterprise,PLC,23.61255005
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,75%,Enterprise,PLC,27.96298158
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,80%,Enterprise,PLC,30.84484621
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,85%,Enterprise,PLC,30.48609526
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,No Insurance,Enterprise,N/A,7.20443266
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,50%,Enterprise,N/A,11.69668436
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,55%,Enterprise,N/A,13.59932166
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,60%,Enterprise,N/A,16.13296269
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,65%,Enterprise,N/A,19.43723988
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,70%,Enterprise,N/A,23.61255005
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,75%,Enterprise,N/A,27.96298158
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,80%,Enterprise,N/A,30.84484621
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,85%,Enterprise,N/A,30.48609526
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,No Insurance,Enterprise,ARC-CO,69.33036599
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,50%,Enterprise,ARC-CO,73.82261769
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,55%,Enterprise,ARC-CO,75.72525499
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,60%,Enterprise,ARC-CO,78.25889603
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,65%,Enterprise,ARC-CO,81.56317322
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,70%,Enterprise,ARC-CO,85.73848338
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,75%,Enterprise,ARC-CO,90.08891492
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,80%,Enterprise,ARC-CO,92.97077955
+Arkansas,Mississippi,Soybeans,Irrigated,RP-HPE,3,85%,Enterprise,ARC-CO,92.6120286
